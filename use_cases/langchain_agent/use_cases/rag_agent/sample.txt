@@ -1,0 +1,1 @@
+LangChain enables RAG applications by combining LLMs with retrieval mechanisms using vector stores.
